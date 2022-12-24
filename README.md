@@ -1,6 +1,6 @@
 # Mypcot
 
-This Flutter Project is Task Of mypcot.
+This Flutter Project is a Task Of mypcot.
 
 ## Getting Started
 
